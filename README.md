@@ -1,5 +1,7 @@
 
 # HALF_ADDER_SUBTRACTOR
+# Developed by:Sanjushri.A
+# Register number:212223040187
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
