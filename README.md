@@ -78,7 +78,8 @@ endmodule
 
 
 **Output/TIMING Waveform**
-![Uploading image.png…]()
+![image](https://github.com/Sanjushri13/HALF_ADDER_SUBTRACTOR/assets/164732231/27fccc2e-c14b-415b-b384-f6134365ab4b)
+
 
 
 
