@@ -57,9 +57,10 @@ Figure -02 HALF Subtractor
 
 
 **Program:**
-# Developed by:Sanjushri.A
-# Register number:212223040187
 ```
+Developed by:Sanjushri.A
+Register number:212223040187
+
 module Half_Adder_Subtractor(a,b,sum,carry,D,Bo);
 input a,b;
 output sum,carry,D,Bo;
